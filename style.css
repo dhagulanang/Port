@@ -99,7 +99,7 @@ h1 span {
 
 .image-grid img {
   width: 100%;
-  max-width: 280px; /* Ukuran maksimal lebih kecil */
+  max-width: 580px; /* Ukuran maksimal lebih kecil */
   border-radius: 10px;
   border: 2px solid #d9e4ff;
   box-shadow: 0 4px 8px rgba(0,0,0,0.3);
