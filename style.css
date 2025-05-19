@@ -83,6 +83,11 @@ h1 span {
   text-align: center;
   background-color: #1c2331;
   color: white;
+
+  border-radius: 20px;
+  overflow: hidden;
+  border: 2px solid #d9e4ff;
+  margin-bottom: 15px;
 }
 
 .skill-section h1 {
